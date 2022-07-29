@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Michael 
 - 👀 A Data Engineer/Machine Learning Engineer with over 4 years experience helping business make sense of their Data ...
 - 🌱 I’m currently learning Hadoop Environment as I am vast with the Azure environment and SSIS for ETL frameworks
-- I have built a couple of machine learning Models as well with great business Impact
+-  I have built a couple of machine learning Models as well with great business Impact
